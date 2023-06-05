@@ -64,3 +64,19 @@
     <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/Question%20On%20Height/maximumDepthInBInaryTree.java"> Maximum Depth In Binary Tree</a></td>
   </tr>
 </table>
+
+<h2>Advance Traversal</h2>
+<table>
+  <tr>
+    <td > BinaryTree Zigzag Level Order Traversal</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/BinaryTreeZigzagLevelOrderTraversal.java"> BinaryTree Zigzag Level Order Traversal</a></td>
+  </tr>
+ <tr>
+    <td > Boundary Traversals</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/BoundaryTraversals.java">  Boundary Traversals</a></td>
+  </tr>
+  <tr>
+    <td > Is same Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/IsSameTree.java">Is same Tree</a></td>
+  </tr>
+</table>
