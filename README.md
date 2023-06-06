@@ -79,4 +79,36 @@
     <td > Is same Tree</td>
     <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/IsSameTree.java">Is same Tree</a></td>
   </tr>
+  <tr>
+    <td > Bottom View Of Binary Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/BottomViewOfBinaryTree.java">Bottom View Of Binary Tree</a></td>
+  </tr>
+   <tr>
+    <td > Right View Of Binary Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/RightSideViewOfBinaryTree.java">Right View Of Binary Tree</a></td>
+  </tr>
+  <tr>
+    <td > Top View Of Binary Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/TopViewOfBinaryTree.java">Top View Of Binary Tree</a></td>
+  </tr>
+    <tr>
+    <td > Vertical Order Of Binary Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTraversal/VerticalOrderTraversal.java">Vertical Order Of Binary Tree</a></td>
+  </tr>
+</table>
+
+<h2>Advance Tree Questions</h2>
+<table>
+  <tr>
+    <td > Lowest Common Ancestor</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/LowestCommonAncestor.java"> Lowest Common Ancestor</a></td>
+  </tr>
+    <tr>
+    <td > Maximum Width of Binary Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/MaximumWidthOfBinaryTree.java">Maximum Width of Binary Tree</a></td>
+  </tr>
+   <tr>
+    <td > Root to Node Path</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/RootToNodePath.java">Maximum Root to Node Path</a></td>
+  </tr>
 </table>
