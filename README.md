@@ -111,4 +111,28 @@
     <td > Root to Node Path</td>
     <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/RootToNodePath.java">Maximum Root to Node Path</a></td>
   </tr>
+   <tr>
+    <td > Burning Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/BurningTree.java">Burning Tree</a></td>
+  </tr>
+    <tr>
+    <td > Construct Binary Tree From Preorder and Inorder</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/ConstructBinaryFromPreorderAndInorder.java">Construct Binary Tree From Preorder and Inorder</a></td>
+  </tr>
+      <tr>
+    <td > Construct Binary Tree From Postorder and Inorder</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/ContructBinaryTreefromInorderAndPostOrder.java">Construct Binary Tree From Postorder and Inorder</a></td>
+  </tr>
+  <tr>
+    <td > Count Complete Tree Nodes</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/CountCompleteTreeNodes.java">Count Complete Tree Nodes</a></td>
+  </tr>
+    <tr>
+    <td > Print all the Nodes At a Distance of K in Binary Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/PrintAlltheNodesAtaDistanceofKinBinaryTree.java">Print all the Nodes At a Distance of K in Binary Tree</a></td>
+  </tr>
+    <tr>
+    <td >Serialize And Deserialize Binary Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/SerializeAndDeserializeBinaryTree.java">Serialize And Deserialize Binary Tree</a></td>
+  </tr>
 </table>
