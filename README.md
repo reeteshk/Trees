@@ -136,3 +136,58 @@
     <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/AdvanceTreeQuestions/SerializeAndDeserializeBinaryTree.java">Serialize And Deserialize Binary Tree</a></td>
   </tr>
 </table>
+<h2>Binary Search Tree</h2>
+<table>
+  <tr>
+    <td > Binary Search Tree Iterator</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/BinarySearchIterator.java"> Binary Search Tree Iterator</a></td>
+  </tr>
+    <tr>
+    <td > Ceil in a Binary Search Tree</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/CeilInABinarySearchTree.java"> Ceil in a Binary Search Tree</a></td>
+  </tr>
+    <tr>
+    <td > Construct Binary Search Tree From Preorder Traversal</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/ConstructBinarySearchTreeFromPreorderTraversal.java"> Construct Binary Search Tree From Preorder Traversal</a></td>
+  </tr>
+    <tr>
+    <td > Delete in Binary Search Tree </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/DeleteInBST.java">Delete in Binary Search Tree</a></td>
+  </tr>
+   <tr>
+    <td > Floor In A Binary Search Tree </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/FloorInABinarySearchTree.java">Floor In A Binary Search Tree </a></td>
+  </tr>
+     <tr>
+    <td >Insert In A Binary Search Tree </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/InsertIntoBST.java">Insert In A Binary Search Tree  </a></td>
+  </tr>
+       <tr>
+    <td >Kth Smallest Element In BST </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/KthSmallestElementInBST.java">Kth Smallest Element In BST</a></td>
+  </tr>
+    <tr>
+    <td >Lowest Common Ancestor In A Binary Search Tree </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/LowestCommonAncestorInABinarySearchTree.java">Lowest Common Ancestor In A Binary Search Tree </a></td>
+  </tr>
+      <tr>
+    <td >Maximum Sum In BST In BT </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/MaximunSumInBSTInBT.java">Maximum Sum In BST In BT </a></td>
+  </tr>
+   <tr>
+    <td >Predecessor And Successor In BST </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/PredecessorAndSuccessorInBST.java">Predecessor And Successor In BST </a></td>
+  </tr>
+    <tr>
+    <td >Search In A Binary Tree </td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/SearchInABinaryTree.java">Search In A Binary Tree  </a></td>
+  </tr>
+   <tr>
+    <td >Two Sum IV - Input as a BST</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/TwoSumIV-InputasaBST.java">Two Sum IV - Input as a BST </a></td>
+  </tr>
+     <tr>
+    <td >Validate BST</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Trees/blob/main/BinarySearchTree/ValidateBST.java">Two Sum IV - Input as a BST </a></td>
+  </tr>
+</table>
